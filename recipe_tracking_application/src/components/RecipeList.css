@@ -1,0 +1,22 @@
+#list{
+    width: 400px;
+    height: 350px;
+    padding: 2%;
+    background-color: #113CFC;
+    color: #69DADB;
+    overflow: auto;
+}
+
+.flex{
+    display: flex;
+    gap: 100px;
+}
+
+.width{
+    width: 200px;
+    cursor: pointer;
+}
+
+.width :hover{
+    color: white;
+}

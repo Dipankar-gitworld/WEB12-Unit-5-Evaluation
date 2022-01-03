@@ -1,0 +1,25 @@
+#main{
+  max-width: 1500px;
+  border: 1px solid black;
+  margin: auto;
+}
+
+#main >div:nth-child(1){
+  display: flex;
+  gap: 220px;
+  overflow: auto;
+  margin-left: 15%;
+  
+
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  
+  width: 500px;
+  height: 500px;
+  background-color: #193498;
+  color: white;
+  
+}

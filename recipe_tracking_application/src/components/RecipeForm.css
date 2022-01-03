@@ -1,0 +1,18 @@
+input{
+    display: block;
+    height: 35px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+#form{
+    background-color: #193498;
+    height: 350px;
+    padding: 2%;
+}
+h1{
+    text-align: center;
+}
+body{
+    color: #69DADB;
+}
